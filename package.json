@@ -1,0 +1,11 @@
+{
+    "name" : "hackathon-2014-02",
+    "description" : "Useful files for the GE Appliance Hackathon",
+    "homepage" : "http://www.ge.com/",
+    "keywords" : [ "GE", "GEA", "SDK", "General Electric", "hackathon" ],
+    "author" : "Christopher Baker <christopher.baker2@ge.com>",
+    "repository" : {
+        "type": "git", "url": "https://github.com/GEMakers/hackathon-2014-02.git"
+    },
+    "version" : "0.0.0"
+}
